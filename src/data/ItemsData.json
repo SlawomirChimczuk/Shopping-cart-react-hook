@@ -72,7 +72,7 @@
         "amount": 0
     },
     {
-        "id": 5,
+        "id": 10,
         "image": "http://serwer2096440.home.pl/autoinstalator/wordpress/wp-content/themes/zukitextile/img/Fabric10.jpg",
         "name": "Print 10",
         "price": 100,
@@ -120,7 +120,7 @@
         "amount": 0
     },
     {
-        "id": 5,
+        "id": 16,
         "image": "http://serwer2096440.home.pl/autoinstalator/wordpress/wp-content/themes/zukitextile/img/Fabric4.jpg",
         "name": "Print 16",
         "price": 130,
@@ -136,7 +136,7 @@
         "amount": 0
     },
     {
-        "id": 5,
+        "id": 18,
         "image": "http://serwer2096440.home.pl/autoinstalator/wordpress/wp-content/themes/zukitextile/img/Fabric6.jpg",
         "name": "Print 18",
         "price": 110,

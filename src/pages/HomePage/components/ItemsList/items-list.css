@@ -1,0 +1,8 @@
+.section-gallery{
+    max-width: 1400px;
+    margin: 0 auto;
+    flex-grow: 1;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}

@@ -1,12 +1,14 @@
 import React from 'react'
-import ItemsList from './components/ItemsList'
+import ItemsList from './components/ItemsList/ItemsList'
+import ItemsData from '../../data/ItemsData'
 
 function HomePage() {
+    const items = ItemsData;
+
     return (
-        <div>
-            1234
-            <ItemsList />
-        </div> 
+        <>
+            <ItemsList items={ items }></ItemsList>
+        </> 
     )
 }
 
